@@ -1,14 +1,14 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : 連絡先
+  subtitle : 連絡方法
+  content : ご支援に関する質問・連絡は右のフォームをご利用頂くか下記のEmail・電話・郵送にてお願いします。
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "〒690-0xxx 島根県松江市西川津町1060 島根大学ものづくり部Pim"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
@@ -24,8 +24,8 @@ contact:
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "お名前"
+    email : "連絡先メールアドレス"
+    subject : "タイトル"
+    message : "内容"
+    submit : "送信"

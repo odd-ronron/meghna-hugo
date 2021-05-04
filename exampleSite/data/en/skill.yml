@@ -16,7 +16,7 @@ skill:
       
     # skill item loop
     - name :  Design
-      percent : 80%
+      percent : 20%
       
     - name :  IOS Development
       percent : 95%

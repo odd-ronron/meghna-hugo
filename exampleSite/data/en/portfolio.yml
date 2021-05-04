@@ -1,13 +1,13 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : これまでの 作品
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Tag デザイン
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+      categories : ["デザイン"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
@@ -15,7 +15,7 @@ portfolio:
     - name : Sound system
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      categories : ["ソフトウェア開発"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
@@ -23,7 +23,7 @@ portfolio:
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : ["デザイン", "ソフトウェア開発"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -31,7 +31,7 @@ portfolio:
     - name : Bottol Label
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+      categories : ["その他", "ソフトウェア開発"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -39,15 +39,15 @@ portfolio:
     - name : Shopping Bag
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+      categories : ["デザイン"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Tag デザイン
       image : images/portfolio/portfolio-6.jpg
       image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
+      categories : ["その他"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -55,22 +55,22 @@ portfolio:
     - name : Business Card
       image : images/portfolio/portfolio-7.jpg
       image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
+      categories : ["ソフトウェア開発"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Stationary デザイン
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+      categories : ["デザイン", "ソフトウェア開発"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Tag デザイン
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["デザイン", "その他"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

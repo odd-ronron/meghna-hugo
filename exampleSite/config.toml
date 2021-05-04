@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "「ご支援」申し込み（都度寄付）｜ソフトウェア開発に励む島大生を応援！｜SUEP開発者＋島根大学ものづくり部Pim"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
